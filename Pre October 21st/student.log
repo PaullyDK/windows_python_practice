@@ -1,0 +1,12 @@
+INFO:root:Info message from student module
+INFO:root:Info message from student module
+INFO:root:Info message from student module
+INFO:root:Info message from student module
+INFO:root:Info message from student module
+INFO:root:Info message from student module
+INFO:root:Info message from student module
+CRITICAL:testlogger:critical message
+ERROR:testlogger:error message
+WARNING:testlogger:warning message
+INFO:testlogger:info message
+DEBUG:testlogger:debug message

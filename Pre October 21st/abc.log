@@ -1,0 +1,4 @@
+21/10/2026 09:45:50 AM:CRITICAL:demologger:critical message
+21/10/2026 09:45:50 AM:ERROR:demologger:error message
+21/10/2026 09:45:50 AM:WARNING:demologger:warning message
+21/10/2026 09:45:50 AM:INFO:demologger:info message

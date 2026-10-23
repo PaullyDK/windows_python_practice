@@ -1,0 +1,13 @@
+DEBUG:root:Debug Information
+INFO:root:Info Information
+WARNING:root:Warning Information
+ERROR:root:Error Information
+CRITICAL:root:Critical Information
+21/10/2026 09:04:20 AM:INFO:A New Request Came
+21/10/2026 09:04:26 AM:ERROR:division by zero
+Traceback (most recent call last):
+  File "c:\Users\Keise\OneDrive\Desktop\python_practice\logging_exception_test.py", line 13, in <module>
+    print("The Result", x/y)
+                        ~^~
+ZeroDivisionError: division by zero
+21/10/2026 09:04:26 AM:INFO:Request Processing Completed

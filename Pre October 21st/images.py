@@ -1,0 +1,5 @@
+f1 = open("image.jpg","rb")
+f2 = open("newimage.jpg","wb")
+bytes = f1.read()
+f2.write(bytes)
+print("New image: newimage.jpg")
