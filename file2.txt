@@ -1,2 +1,0 @@
-this is the file 2
-the is the second line of file 2
